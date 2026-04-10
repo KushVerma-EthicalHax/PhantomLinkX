@@ -2,6 +2,11 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red)
+<h1 align="center"></h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KushVerma-EthicalHax/PhantomLinkX/main/5373dce9-74ca-49a9-b1a7-13e085bef99d.png" width="700"/>
+</p>
 # ☠️ PhantomLinkX - Advanced Phishing Analyzer
 
 🚀 **PhantomLinkX** is a powerful cybersecurity tool designed to detect and analyze suspicious or malicious URLs using real-time OSINT techniques, domain intelligence, and heuristic-based risk scoring.
