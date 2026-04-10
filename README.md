@@ -56,7 +56,7 @@ Reason:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PhantomLinkX.git
+git clone https://github.com/KushVerma-EthicalHax/PhantomLinkX.git
 cd phishing-analyzer
 pip install -r requirements.txt
 python main.py
